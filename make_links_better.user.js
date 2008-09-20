@@ -1,4 +1,4 @@
-// Make Icons Better user script
+// Make Links Better user script
 // version 0.1 BETA!
 // 2008-09-20
 // Copyright (c) 2008, Mark Pilgrim
@@ -20,9 +20,9 @@
 // --------------------------------------------------------------------
 //
 // ==UserScript==
-// @name          Make Icons Better
-// @namespace     http://www.kalv.co.uk/makeiconsbetter/
-// @description   Script to enlarge small icons to make it easier to read
+// @name          Make Links Better
+// @namespace     http://www.kalv.co.uk/
+// @description   Script to enlarge small links to make it easier to read
 // @include       *
 // ==/UserScript==
 
